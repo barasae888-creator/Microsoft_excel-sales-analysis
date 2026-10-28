@@ -1,4 +1,4 @@
-# 📊 Sales & Performance Analysis Dashboard — Excel
+# Sales & Performance Analysis Dashboard — Excel
 
 ## Project Overview
 
