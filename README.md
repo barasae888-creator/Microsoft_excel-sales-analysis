@@ -78,7 +78,7 @@ The dashboard can help business stakeholders:
 
 ## &#x20;Author
 
-**Data Analyst | Excel | SQL | Python**
+**Emmanuel the Analyst | Excel | SQL | Python|Power BI**
 
 This project is part of my data analytics portfolio, showcasing practical skills in Excel-based business analysis and dashboard development.
 
