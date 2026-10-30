@@ -61,12 +61,6 @@ The dashboard can help business stakeholders:
 - Investigate performance changes across selected periods.
 - Support reporting and business planning with visual summaries.
 
-## Dashboard Preview
-
-
-
-*Note: Upload the dashboard screenshot to your repository and name it `dashboard.png`, or change the filename above to match your uploaded image.*
-
 ## Skills Demonstrated
 
 - Exploratory data analysis
